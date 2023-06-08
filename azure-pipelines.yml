@@ -33,4 +33,4 @@ steps:
     azureSubscription: 'Pay-As-You-Go (9d410db7-7962-4103-9945-4bdda1c06530)'
     appType: 'webApp'
     WebAppName: 'piowww'
-    packageForLinux: '/site/wwwroot/ROOT'
+    packageForLinux: '/home/site/wwwroot'
