@@ -34,3 +34,5 @@ steps:
     appType: 'webApp'
     WebAppName: 'piowww'
     packageForLinux: '/home/site/wwwroot/*.war'
+
+- task: PublishBuildArtifacts@1
